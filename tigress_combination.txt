@@ -1,4 +1,4 @@
-Index/variant_no	Tigress Combinations
+Index	Tigress_Combinations
 1	switch goto top
 2	switch goto block
 3	switch goto deep
